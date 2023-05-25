@@ -1,0 +1,33 @@
+C:\Users\Dell\source\repos\DuAn\BUS\bin\Debug\BUS.dll
+C:\Users\Dell\source\repos\DuAn\BUS\bin\Debug\BUS.pdb
+C:\Users\Dell\source\repos\DuAn\BUS\bin\Debug\DAL.dll
+C:\Users\Dell\source\repos\DuAn\BUS\bin\Debug\Model.dll
+C:\Users\Dell\source\repos\DuAn\BUS\bin\Debug\DAL.pdb
+C:\Users\Dell\source\repos\DuAn\BUS\bin\Debug\Model.pdb
+C:\Users\Dell\source\repos\DuAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DuAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DuAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Dell\source\repos\DuAn\BUS\obj\Debug\BUS.dll
+C:\Users\Dell\source\repos\DuAn\BUS\obj\Debug\BUS.pdb
+D:\vs22\DuAn\BUS\bin\Debug\BUS.dll
+D:\vs22\DuAn\BUS\bin\Debug\BUS.pdb
+D:\vs22\DuAn\BUS\bin\Debug\DAL.dll
+D:\vs22\DuAn\BUS\bin\Debug\Model.dll
+D:\vs22\DuAn\BUS\bin\Debug\DAL.pdb
+D:\vs22\DuAn\BUS\bin\Debug\Model.pdb
+D:\vs22\DuAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\vs22\DuAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\vs22\DuAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\vs22\DuAn\BUS\obj\Debug\BUS.dll
+D:\vs22\DuAn\BUS\obj\Debug\BUS.pdb
+D:\vs22\DuAn - Copy - Copy\BUS\bin\Debug\BUS.dll
+D:\vs22\DuAn - Copy - Copy\BUS\bin\Debug\BUS.pdb
+D:\vs22\DuAn - Copy - Copy\BUS\bin\Debug\DAL.dll
+D:\vs22\DuAn - Copy - Copy\BUS\bin\Debug\Model.dll
+D:\vs22\DuAn - Copy - Copy\BUS\bin\Debug\DAL.pdb
+D:\vs22\DuAn - Copy - Copy\BUS\bin\Debug\Model.pdb
+D:\vs22\DuAn - Copy - Copy\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\vs22\DuAn - Copy - Copy\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\vs22\DuAn - Copy - Copy\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\vs22\DuAn - Copy - Copy\BUS\obj\Debug\BUS.dll
+D:\vs22\DuAn - Copy - Copy\BUS\obj\Debug\BUS.pdb

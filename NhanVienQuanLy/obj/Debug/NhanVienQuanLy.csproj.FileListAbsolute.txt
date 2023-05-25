@@ -1,0 +1,146 @@
+C:\Users\Dell\source\repos\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.fmNhanVien.resources
+C:\Users\Dell\source\repos\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.frmBaoCao.resources
+C:\Users\Dell\source\repos\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.frmDangNhap.resources
+C:\Users\Dell\source\repos\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.frmHangHoa.resources
+C:\Users\Dell\source\repos\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.frmMain.resources
+C:\Users\Dell\source\repos\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.Properties.Resources.resources
+C:\Users\Dell\source\repos\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DuAn\NhanVienQuanLy\bin\Debug\NhanVienQuanLy.exe.config
+C:\Users\Dell\source\repos\DuAn\NhanVienQuanLy\bin\Debug\NhanVienQuanLy.exe
+C:\Users\Dell\source\repos\DuAn\NhanVienQuanLy\bin\Debug\NhanVienQuanLy.pdb
+C:\Users\Dell\source\repos\DuAn\NhanVienQuanLy\bin\Debug\BUS.dll
+C:\Users\Dell\source\repos\DuAn\NhanVienQuanLy\bin\Debug\Model.dll
+C:\Users\Dell\source\repos\DuAn\NhanVienQuanLy\bin\Debug\DAL.dll
+C:\Users\Dell\source\repos\DuAn\NhanVienQuanLy\bin\Debug\BUS.pdb
+C:\Users\Dell\source\repos\DuAn\NhanVienQuanLy\bin\Debug\Model.pdb
+C:\Users\Dell\source\repos\DuAn\NhanVienQuanLy\bin\Debug\DAL.pdb
+C:\Users\Dell\source\repos\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.csproj.CopyComplete
+C:\Users\Dell\source\repos\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.exe
+C:\Users\Dell\source\repos\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.pdb
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\NhanVienQuanLy.exe.config
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\NhanVienQuanLy.exe
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\NhanVienQuanLy.pdb
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\BUS.dll
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\Model.dll
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\DAL.dll
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\BUS.pdb
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\Model.pdb
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\DAL.pdb
+D:\vs22\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.csproj.AssemblyReference.cache
+D:\vs22\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.fmNhanVien.resources
+D:\vs22\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.frmBaoCao.resources
+D:\vs22\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.frmDangNhap.resources
+D:\vs22\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.frmHangHoa.resources
+D:\vs22\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.frmMain.resources
+D:\vs22\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.Properties.Resources.resources
+D:\vs22\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.csproj.GenerateResource.cache
+D:\vs22\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.csproj.CoreCompileInputs.cache
+D:\vs22\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.csproj.CopyComplete
+D:\vs22\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.exe
+D:\vs22\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.pdb
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\AxShockwaveFlashObjects.dll
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\CrystalDecisions.Shared.dll
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\ShockwaveFlashObjects.dll
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\stdole.dll
+D:\vs22\DuAn\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\vs22\DuAn\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.frmBanHang.resources
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\NhanVienQuanLy.exe.config
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\NhanVienQuanLy.exe
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\NhanVienQuanLy.pdb
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\AxShockwaveFlashObjects.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\BUS.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.Shared.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\Model.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\DAL.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\ShockwaveFlashObjects.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\stdole.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\BUS.pdb
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\Model.pdb
+D:\vs22\DuAn - Copy\NhanVienQuanLy\bin\Debug\DAL.pdb
+D:\vs22\DuAn - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.csproj.AssemblyReference.cache
+D:\vs22\DuAn - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.fmNhanVien.resources
+D:\vs22\DuAn - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.frmBanHang.resources
+D:\vs22\DuAn - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.frmBaoCao.resources
+D:\vs22\DuAn - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.frmDangNhap.resources
+D:\vs22\DuAn - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.frmHangHoa.resources
+D:\vs22\DuAn - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.frmMain.resources
+D:\vs22\DuAn - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.Properties.Resources.resources
+D:\vs22\DuAn - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.csproj.GenerateResource.cache
+D:\vs22\DuAn - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.csproj.CoreCompileInputs.cache
+D:\vs22\DuAn - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.csproj.CopyComplete
+D:\vs22\DuAn - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.exe
+D:\vs22\DuAn - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.pdb
+D:\vs22\DuAn - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.InBaoCao.resources
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\NhanVienQuanLy.exe.config
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\NhanVienQuanLy.exe
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\NhanVienQuanLy.pdb
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\AxShockwaveFlashObjects.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\BUS.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.Shared.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\Model.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\DAL.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\ShockwaveFlashObjects.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\stdole.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\BUS.pdb
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\Model.pdb
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\bin\Debug\DAL.pdb
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.csproj.AssemblyReference.cache
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.fmNhanVien.resources
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.frmBanHang.resources
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.frmBaoCao.resources
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.frmDangNhap.resources
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.frmHangHoa.resources
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.frmMain.resources
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.InBaoCao.resources
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.Properties.Resources.resources
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.csproj.GenerateResource.cache
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.csproj.CoreCompileInputs.cache
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.csproj.CopyComplete
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.exe
+D:\vs22\DuAn - Copy - Copy\NhanVienQuanLy\obj\Debug\NhanVienQuanLy.pdb

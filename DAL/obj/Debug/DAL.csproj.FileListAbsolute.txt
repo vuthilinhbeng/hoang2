@@ -1,0 +1,27 @@
+C:\Users\Dell\source\repos\DuAn\DAL\bin\Debug\DAL.dll
+C:\Users\Dell\source\repos\DuAn\DAL\bin\Debug\DAL.pdb
+C:\Users\Dell\source\repos\DuAn\DAL\bin\Debug\Model.dll
+C:\Users\Dell\source\repos\DuAn\DAL\bin\Debug\Model.pdb
+C:\Users\Dell\source\repos\DuAn\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DuAn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DuAn\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Dell\source\repos\DuAn\DAL\obj\Debug\DAL.dll
+C:\Users\Dell\source\repos\DuAn\DAL\obj\Debug\DAL.pdb
+D:\vs22\DuAn\DAL\bin\Debug\DAL.dll
+D:\vs22\DuAn\DAL\bin\Debug\DAL.pdb
+D:\vs22\DuAn\DAL\bin\Debug\Model.dll
+D:\vs22\DuAn\DAL\bin\Debug\Model.pdb
+D:\vs22\DuAn\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\vs22\DuAn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\vs22\DuAn\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\vs22\DuAn\DAL\obj\Debug\DAL.dll
+D:\vs22\DuAn\DAL\obj\Debug\DAL.pdb
+D:\vs22\DuAn - Copy - Copy\DAL\bin\Debug\DAL.dll
+D:\vs22\DuAn - Copy - Copy\DAL\bin\Debug\DAL.pdb
+D:\vs22\DuAn - Copy - Copy\DAL\bin\Debug\Model.dll
+D:\vs22\DuAn - Copy - Copy\DAL\bin\Debug\Model.pdb
+D:\vs22\DuAn - Copy - Copy\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\vs22\DuAn - Copy - Copy\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\vs22\DuAn - Copy - Copy\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\vs22\DuAn - Copy - Copy\DAL\obj\Debug\DAL.dll
+D:\vs22\DuAn - Copy - Copy\DAL\obj\Debug\DAL.pdb
